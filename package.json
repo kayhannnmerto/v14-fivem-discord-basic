@@ -1,0 +1,25 @@
+{
+  "name": "raviwen-fivem",
+  "version": "0.0.23",
+  "description": "discord.gg/rota",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/www.github.com/raviwen.git"
+  },
+  "keywords": [
+    "fivem"
+  ],
+  "author": "Raviwen#0103",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/www.github.com/raviwen/issues"
+  },
+  "homepage": "https://github.com/www.github.com/raviwen#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
