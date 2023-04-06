@@ -1,4 +1,3 @@
-```js
 module.exports ={
     "Bot": {
         "Guıild": "YOUR_GUILD_ID",   // Sunucuzun ID'si
@@ -24,4 +23,3 @@ module.exports ={
         "RestartGif": "YOUR_RESTART_GIF", // Restart gif
     },
 }
-```
